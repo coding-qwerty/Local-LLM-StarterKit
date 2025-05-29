@@ -1,0 +1,6 @@
+{
+  "model_path": "models/my-model.gguf",
+  "context_length": 4096,
+  "gpu_layers": 35,
+  "threads": 8
+}
